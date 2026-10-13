@@ -5,7 +5,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 # Phase 1: High-Level Concepts & Organizational Framework (IAEA SSG-28)
 
-## Introduction & The Commissioning Process
+## Introduction
 
 - (1.3) This document makes recommendations about good practices of commissioning of Nuclear Power Plants (NPP). These recommendations will assure the commissioning process safely and high quality.
 - (1.4) Some or all of this document (IAEA SSG-28) may be relevant when a NPP is to be restarted after an extended shutdown period.
@@ -27,6 +27,9 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - initial criticality;
   - regulatory authorization and authorization for subsequent stages.
 - (1.11) Section 5 deals with the documentation to be prepared and produced during commissioning, and the requirements for the records over the lifetime of the plant.
+
+## The Commissioning Process
+
 - (2.1) 
 
 ## Organization, Interfaces, and Handover
