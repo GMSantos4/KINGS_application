@@ -16,7 +16,18 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - recommendations for preparation and approval of the commissioning programme;
   - Stages of commissioning;
   - roles of the regulatory body and of the operating organization during commissioning in relation to approval, authorization and supervision.
-- (1.9) 
+- (1.9) Section 3 describes organizational matters in commissioning process, such as:
+  - functions and responsibilities of the parties involved and the interfaces between them;
+  - characteristics of the management system (management for safety, quality of management and qualification of the personnel involved in commissioning);
+  - Organizational interfaces between construction, commissioning and operation.
+- (1.10) Section 4 covers practical issues relating to the implementation of the commissioning programme:
+  - commissioning stages;
+  - different aspects of the testing;
+  - initial loading of nuclear fuel;
+  - initial criticality;
+  - regulatory authorization and authorization for subsequent stages.
+- (1.11) Section 5 deals with the documentation to be prepared and produced during commissioning, and the requirements for the records over the lifetime of the plant.
+- (2.1) 
 
 ## Organization, Interfaces, and Handover
 
