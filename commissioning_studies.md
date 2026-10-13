@@ -30,7 +30,10 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 ## The Commissioning Process
 
-- (2.1) 
+- (2.1) Commissioning is an essential process for the subsequent safe operation of a nuclear power plant and should be carefully developed, planned, executed and regulated. The commissioning process should be considered a progressive transition from construction to operation of the plant.
+- (2.2) Good coordination and communication should be established among all participants in the commissioning process (designers, construction group, license holders, regulators, manufactures, commissioning and operating groups). All the parties involved should be informed of all pertinent decisions.
+  - For the accomplishment of this goal, it is mandatory to use an software/application to connect the stakeholders who must know every single changing in the project. This software/application will notify all stakeholders of a necessary update in their respective areas.
+- (2.3) 
 
 ## Organization, Interfaces, and Handover
 
