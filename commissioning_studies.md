@@ -33,7 +33,23 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.1) Commissioning is an essential process for the subsequent safe operation of a nuclear power plant and should be carefully developed, planned, executed and regulated. The commissioning process should be considered a progressive transition from construction to operation of the plant.
 - (2.2) Good coordination and communication should be established among all participants in the commissioning process (designers, construction group, license holders, regulators, manufactures, commissioning and operating groups). All the parties involved should be informed of all pertinent decisions.
   - For the accomplishment of this goal, it is mandatory to use an software/application to connect the stakeholders who must know every single changing in the project. This software/application will notify all stakeholders of a necessary update in their respective areas.
-- (2.3) 
+ 
+### Objectives of Commissioning
+
+- (2.3) Commissioning has the objective of demonstrating that the NPP as constructed meets the design requirements and the safety requirements as specified in the safety analysis report and in the licence conditions. For the achievement of this objective and to ensure safe and reliable operation of the plant in the future, the commissioninig process should include activities for the following purposes:
+  - To verify that structures, system and components fulfil the design safety objectives through the corresponding acceptance criteria;
+  - To collect baseline data for equipment and system for the future reference;
+  - To validate those operating procedures and surveillance procedures for which the commissioning tests provide representative activities and conditions, and to validate the adequacy of these operating and surveillance procedures;
+  - To familiarize the operating, maintenance and technical staff of the NPP with the operation of the plant.
+
+### Commissioning Programme
+
+- (2.4) The commissioning programme should cover the following items:
+  - all the activities to be performed on structures, systems and components to make them operable in accordance with the design intent;
+  - the plant conditions considered in the safety analysis report and in the licence conditions;
+  - it should allow the verification of the assumptions made in the safety analysis report, and the existence of adequate margins between the design intent and safety requirements and the actual performance of the plant.
+- (2.7) As part of the commissioning programme, a detailed list of commissioning activities should be prepared. Responsabilities for implementing and reporting on the various parts of the commissioning programme should be clearly specified. In planning for commissioning, all activities and all organizations involved should be taken into consideration.
+- (2.
 
 ## Organization, Interfaces, and Handover
 
