@@ -49,7 +49,14 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - the plant conditions considered in the safety analysis report and in the licence conditions;
   - it should allow the verification of the assumptions made in the safety analysis report, and the existence of adequate margins between the design intent and safety requirements and the actual performance of the plant.
 - (2.7) As part of the commissioning programme, a detailed list of commissioning activities should be prepared. Responsabilities for implementing and reporting on the various parts of the commissioning programme should be clearly specified. In planning for commissioning, all activities and all organizations involved should be taken into consideration.
-- (2.
+- (2.9) The commissioning programme should be structured and appropriately justified so as to ensure the following:
+  - All the tests necessary to demonstrate that the plant meets the design intent as stated in the safety analysis report are performed;
+  - The tests are performed in a logical sequence; in particular, tests are arranged to be progressive, so that the plant is exposed to less onerous conditions before it is exposed to more onerous conditions;
+  - The tests are grouped in commissioning stages in a logical sequence from non-nuclear testing stages to nuclear testing stages, and from testing stages for individuals systems and components to overall testing stages for integrated systems, with overal testing stages for the plant at the end;
+  - The appropriate hold points are estabilished for the commissioning process;
+  - Operations, maintenance, and support personnel are further trained, and processes and procedures are validated;
+  - Milestones are identified, including milestones at which the regulatory body's authorization is required to proceed in the process of commissioning.
+  - (2.10)
 
 ## Organization, Interfaces, and Handover
 
