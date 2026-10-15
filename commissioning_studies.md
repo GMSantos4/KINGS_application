@@ -56,7 +56,17 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - The appropriate hold points are estabilished for the commissioning process;
   - Operations, maintenance, and support personnel are further trained, and processes and procedures are validated;
   - Milestones are identified, including milestones at which the regulatory body's authorization is required to proceed in the process of commissioning.
-  - (2.10)
+- (2.10) Independently of the organizational arrangements for the commissioning of the NPP, the operating organization should review and approve the commissioning programme.
+- (2.11) The commissioning programme should include:
+  - Any applicable requirement of the regulatory body, including the witnessing of specified tests;
+  - The designation of each test together with a unique identification;
+  - Cross-references to other documents relevant to commissioning;
+  - Provision for the means for data collection for future use.
+- (2.12) During commissioning, normal and emergency operating procedures should be widely used to validate the applicability of the procedures.
+- (2.13) The commissioning programme must ensure that operating and maintenance personnel will participate in commissioning activities. It must ensure also that operating procedures are validated with the participation of plant staff.
+- (2.14) The commissioning programme should provide a framework for the scheduling of tests and related activities, and for suitable personnel and equipment to be available at the proper time.
+- (2.15) The commissioning programme should be written in such a form as to enable the objectives and methods of testing to be readily understood by all concerned and to allow control and coordination by management.
+- (2.16) 
 
 ## Organization, Interfaces, and Handover
 
