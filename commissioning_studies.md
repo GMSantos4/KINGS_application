@@ -66,7 +66,25 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.13) The commissioning programme must ensure that operating and maintenance personnel will participate in commissioning activities. It must ensure also that operating procedures are validated with the participation of plant staff.
 - (2.14) The commissioning programme should provide a framework for the scheduling of tests and related activities, and for suitable personnel and equipment to be available at the proper time.
 - (2.15) The commissioning programme should be written in such a form as to enable the objectives and methods of testing to be readily understood by all concerned and to allow control and coordination by management.
-- (2.16) 
+- (2.16) The commissioning programme should be prepared in the framework of the existing management system of the operating organization, with proper consideration given to all aspects of management.
+
+### Stages of Commissioning
+
+- (2.17) The commissioning programme for a NPP should be divided into stages whose number and size will depend upon safety requirements, and technical, administrative and regularory requirements when applicable.
+  - A review of the results of the stage tests should be completed before continuing to the next stage.
+  - The review should enable a judgement to be made on whether the commissioning programme may continue to the next stage, and whether the succeeding stages should be modified as a consequence of the test results or because of the absence of a specified test.
+- (2.18) In addition, if some commissioning test set inside a stage is important for safety, substages may be required for the operating organization or the regulatory body.
+- (2.19) The commissioning process can be divided into the following stages and substages in order to obtain the responses of all important systems for different values of operating parameters:
+  - Non-nuclear testing, which includes:
+    - Individual pre-operational tests of systems and components;
+    - Overall pre-operational systems tests
+    - Structural integrity tests, integrated leakage rate tests of the containment and of the primary system and secondary system.
+  - Nuclear testing, which includes:
+  - Initial fuel loading;
+  - Subcrutical tests;
+  - Initial criticatility tests;
+  - LOw poert tests;
+  - Power ascentition tests.
 
 ## Organization, Interfaces, and Handover
 
