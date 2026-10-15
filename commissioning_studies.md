@@ -80,11 +80,11 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
     - Overall pre-operational systems tests
     - Structural integrity tests, integrated leakage rate tests of the containment and of the primary system and secondary system.
   - Nuclear testing, which includes:
-  - Initial fuel loading;
-  - Subcrutical tests;
-  - Initial criticatility tests;
-  - LOw poert tests;
-  - Power ascentition tests.
+    - Initial fuel loading;
+    - Subcrutical tests;
+    - Initial criticatility tests;
+    - LOw poert tests;
+    - Power ascentition tests.
 
 ## Organization, Interfaces, and Handover
 
