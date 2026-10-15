@@ -77,14 +77,15 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.19) The commissioning process can be divided into the following stages and substages in order to obtain the responses of all important systems for different values of operating parameters:
   - Non-nuclear testing, which includes:
     - Individual pre-operational tests of systems and components;
-    - Overall pre-operational systems tests
+    - Overall pre-operational systems tests;
     - Structural integrity tests, integrated leakage rate tests of the containment and of the primary system and secondary system.
   - Nuclear testing, which includes:
     - Initial fuel loading;
     - Subcrutical tests;
     - Initial criticatility tests;
-    - LOw poert tests;
-    - Power ascentition tests.
+    - Low power tests;
+    - Power ascension tests.
+- (2.20)
 
 ## Organization, Interfaces, and Handover
 
