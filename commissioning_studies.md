@@ -91,7 +91,26 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 ### Execution of the Commissioning Programme
 
-- (2.23)
+- (2.23) Testing, as the core of the commissioning programme, should be sufficiently comprehensive to demonstrate that the plant can be operated in all modes for which it has been designed to be operated.
+  - However, tests should not be conducted, and operating modes or plant configurations should not be estabilished, if they meet any of the following conditions:
+    - If they have not been analysed and found safe;
+    - If they fall outside the range assumptions made in the safety analysis report;
+    - If they might damage the plant or jeopardize its safety.
+  - A risk assessment should be carried out before the commencement of each test, and any necessary precautions should be taken in accordance with its findings.
+- (2.24) Appropriate and extensive tests of the safety functions for the NPP and for structures, systems and components should be identified and executed.
+- (2.25) In determining the sequence of testing, the following points should be carefully considered:
+  - Basic systems (systems that several other systems depend on) should undergo prior testing so that they are available for the proper testing of other systems;
+  - Basic systems should be operational to ensure that other systems can be tested without risks to workers and without jeopardizing the safety of the plant.
+  - Relevant tests should be grouped together in a stage of testing of systems;
+  - Simultaneous tests may have an influence on each other's results.
+- (2.26) During construction of a NPP, a period of inactivity and the construction of other equipment may alter the test results of equipment that has already been commissioned. This should be considered in the planning of commissioning tests, especially for standby components that are not operated regurlaly.
+- (2.27) Specific programmes and procedures should be written in support of the commissioning programme. These programmes should include:
+  - Description of principles, objectives, and nature of the tests;
+  - Acceptance criteria;
+  - Operational modes (normal, accidental, so on);
+  - Accident conditions.
+- (2.28)  
+
 
 ## Organization, Interfaces, and Handover
 
