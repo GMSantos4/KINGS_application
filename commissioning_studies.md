@@ -85,7 +85,13 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
     - Initial criticatility tests;
     - Low power tests;
     - Power ascension tests.
-- (2.20)
+- (2.20) The sequence of tests in each substage should be given in the order in which the tests are expected to be performed. Adjustment of the sequence can occur, but it must have a reason, and it must be agreed by the commissioning, and operating organization, and by the regulatory body, where necessary.
+- (2.21) Each stage or substage of commissioning should include the task necessary for the preparation of the succeeding stage or substage, and in particular the availability requirements of the systems for the succeeding stage.
+- (2.22) The relevant safety system settings and alarm settings, including those of instruments for radiological protection, should be specified at the appropriate commissioning stages or substages.
+
+### Execution of the Commissioning Programme
+
+- (2.23)
 
 ## Organization, Interfaces, and Handover
 
