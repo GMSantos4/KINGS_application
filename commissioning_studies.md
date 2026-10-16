@@ -5,12 +5,20 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 # Phase 1: High-Level Concepts & Organizational Framework (IAEA SSG-28)
 
-## Introduction
+## 1. Introduction
+
+### Objective
 
 - (1.3) This document makes recommendations about good practices of commissioning of Nuclear Power Plants (NPP). These recommendations will assure the commissioning process safely and high quality.
 - (1.4) Some or all of this document (IAEA SSG-28) may be relevant when a NPP is to be restarted after an extended shutdown period.
+
+### Scope
+
 - (1.5) SSG-28 deals with commissioning of all land based stationary thermal nuclear power plants. Here goes some topics this document makes recommendations: commissioning programme requirements and testing and review procedures.
 - (1.7) This Safely Guide does not cover considerations of nuclear security in commissioning for a nuclear power plant.
+
+### Structure
+
 - (1.8) Section 2 relates to the entire commissioning process for a nuclear power plant. In this section, the following subjects are covered:
   - objectives of commissioning;
   - recommendations for preparation and approval of the commissioning programme;
@@ -28,7 +36,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - regulatory authorization and authorization for subsequent stages.
 - (1.11) Section 5 deals with the documentation to be prepared and produced during commissioning, and the requirements for the records over the lifetime of the plant.
 
-## The Commissioning Process
+## 2. The Commissioning Process
 
 - (2.1) Commissioning is an essential process for the subsequent safe operation of a nuclear power plant and should be carefully developed, planned, executed and regulated. The commissioning process should be considered a progressive transition from construction to operation of the plant.
 - (2.2) Good coordination and communication should be established among all participants in the commissioning process (designers, construction group, license holders, regulators, manufactures, commissioning and operating groups). All the parties involved should be informed of all pertinent decisions.
