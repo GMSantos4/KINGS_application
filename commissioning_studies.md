@@ -109,7 +109,19 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - Acceptance criteria;
   - Operational modes (normal, accidental, so on);
   - Accident conditions.
-- (2.28)  
+- (2.28) The commissioning programme should be comprehensive:
+  - It should include statutory (lawful) non-nuclear tests in accordance with national practice;
+  - It should have sufficient scope to ensure that there have been no omissions in the testing of complex systems.
+- (2.29) For multi-unit plants, the following provisions should be applied:
+  - Separate commissioning programmes should be prepared and implemented for each unit, even if they have the same design;
+  - Some structures, systems and components may be common to more than one unit. In this case:
+    - These structures, systems and components should met the requirements of all units it supplies;
+    - These structures, systems and components should be tested for accident conditions in individual or multiple units;
+    - A NPP unit under commissioning should be isolated from areas where construction activities are in progress. Such isolation should protect the unit from events, including possible violations, that might occur in constructions areas. Likewise, isolation should protect construction areas from possible accidents at a unit under commissioning.
+
+### Role of the Regulatory Body
+
+- (2.30)
 
 
 ## Organization, Interfaces, and Handover
