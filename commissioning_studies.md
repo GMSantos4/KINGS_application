@@ -129,7 +129,21 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 ### Role of the Regulatory Body
 
-- (2.30)
+- (2.30) The role of the regulatory body in the commissioning process for a NPP is specified by the responsabilities and functions estabilished by its legal framework and national regulations:
+  - In the commissioning process, the main function of the regulatory body is the oversight of commissioning activities, including, where appropriate, issuing relevant authorizations;
+  - The purpose of regulatory body oversight should be to ensure that:
+    - The plant is constructed in accordance with the design intent and its licensing base;
+    - The system and equipment are installed as designed;
+    - The NPP and its equipment are working according to safety requirements.
+- (2.31) The scope and content of the assessments, reviews and inspections conducted by the regulatory body in connection with the commissioning programme differ form State to State. In general, the regulatory body may require some proofs in each stage of the commissioning programme before authorize the commissioning programme to follow to the next steps.
+  - For more information, see: INTERNATIONAL ATOMIC ENERGY AGENCY, Licensing Process for Nuclear Installations, IAEA Safety Standards Series No. SSG-12, IAEA, Vienna (2010).
+- (2.32) In addition to the examination of documentation and the surveillance of testing, there are a number of other areas in which there should be oversight by the regulatory body at the commissioning stage:
+  - The progress of the management of the operating organization from supervising construction to spervising operation;
+  - The training and qualification of operating personnel.
+
+### Role of the Operating Organization
+
+- (2.34) 
 
 
 ## Organization, Interfaces, and Handover
