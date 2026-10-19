@@ -157,6 +157,39 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
  
 ## 3. Organization and Management of Commissioning
 
+### Management System for Commissioning
+
+- (3.1) For the commissioning stage, the operating organization should develop and implement a management system that:
+  - Meets the requirements established in:
+    - INTERNATIONAL ATOMIC ENERGY AGENCY, The Management System for Facilities and Activities, IAEA Safety Standards Series No. GS-R-3, IAEA, Vienna (2006).
+  - Takes into account the generic recommendations provided in:
+    - INTERNATIONAL ATOMIC ENERGY AGENCY, Application of the Management System for Facilities and Activities, IAEA Safety Standards Series No. GS-G-3.1, IAEA, Vienna (2006);
+    - INTERNATIONAL ATOMIC ENERGY AGENCY, The Management System for Nuclear Installations, IAEA Safety Standards Series No. GS-G-3.5, IAEA, Vienna (2009).
+- (3.2) The management system should ensure that nuclear safety matters are not dealt with in isolation during commissioning but are considered in the context of all commissioning activities.
+- (3.3) The operating organization (design project owner) should develop and implement a management system that describes the overall arrangements for the management, performance and assessment of activities at the NPP during commissioning. The management system should cover all the activities that are carried out in, or are necessary for, the commissioning stage.
+- (3.4) The management system for commissioning should be established early on, before the start of commissioning. The system should cover all items, services and processes relating to commissioning, including those important to safety.
+  - In establishing and implementing the management system for commissioning, a graded approach based on the relative importance to safety of each item or process should be used.
+- (3.5) The following topics applicable to safety in commissioning should be addressed in the management system:
+  - Control of documents;
+  - Control of products;
+  - Measuring and testing of equipment;
+  - Control of records;
+  - Purchasing;
+  - Communication;
+  - Managing organizational change;
+  - Project management;
+  - Working planning and control;
+  - Risk assessment for the work place;
+  - Personnel protection and safety;
+  - Control and supervision of contractors;
+  - Design of structures, systems and components;
+  - Configuration management;
+  - Plant modification;
+  - Maintenance;
+  - Housekeeping and cleanliness;
+  - Handling and storage of items;
+  - Inventory management;
+  - Identification and labelling of structures, systems and components;
 
 
 # Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
