@@ -190,7 +190,21 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - Handling and storage of items;
   - Inventory management;
   - Identification and labelling of structures, systems and components;
-
+  - Management of spent fuel and radioactive waste;
+  - Protection of the environment;
+  - Interfaces with the regulatory body;
+  - Information technology;
+  - Training;
+  - Protection against fires and internal flooding;
+  - Accounting for and control of nuclear material and radioactive material.
+- (3.7) The structure, content, extent and means of control of commissioning documents, including their verification and approval, should be described in the management system of the operating organization.
+- (3.8) A key objective of the management system during commissioning is to ensure that the NPP meets the requirements for safety as derived from:
+  - The requirements of the regulatory body;
+  - Design requirements and assumptions;
+  - The safety analysis report;
+  - Operational limits and conditions;
+  - The administrative requirements established by the management of the operating organization (design project owner).
+- (3.9)
 
 # Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
 
