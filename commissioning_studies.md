@@ -143,10 +143,21 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 
 ### Role of the Operating Organization
 
-- (2.34) 
+- (2.34) The operating organization holds the following responsibilities:
+  - Nuclear and radiation safety;
+  - Protection of workers and the environment;
+  - Ensure the correct and satisfactory organization, planning, execution and assessment of the commissioning process.
+- (2.35) The operating organization should establishing organizational arrangements to discharge (execute) its responsibilities with regard to the commissioning programme, such as:
+  - Setting up the formal structure;
+  - Management systems;
+  - Resources necessary to safely and effectively test a new facility before it becomes fully operational;
+  - When commissioning activities are conducted by contractors, the operating organization should make the necessary arrangements to review and approve there activities at all stages.
+- (2.36) The operating organization should take appropriate actions during the commissioning stage to ensure that the operating personnel are involved in the commissioning activities as early as possible.
+  - Attributes of safety culture such as personal dedication, safety consciousness and a questioning attitude should be fostered in the pre-operational stages so as to become instinctive for the subsequent operational stage.
+ 
+## 3. Organization and Management of Commissioning
 
 
-## Organization, Interfaces, and Handover
 
 # Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
 
