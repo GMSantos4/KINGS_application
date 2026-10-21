@@ -213,6 +213,17 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (3.11) The operating organization should ensure that appropriate procedures are established for the control of commissioning activities on the site, to ensure that the commissioning of the plant fulfils the requirements of the commissioning programme.
 - (3.12) Arrangements should be made for adequate and, where necessary, independent oversight and control of the quality of ongoing work.
 
+<details>
+<summary><b>🔍 Click here to see a summing up of what was studied so far</b></summary>
+
+### 📝 Summing Up
+1. **Configuração Inicial:** Passo a passo do ambiente.
+2. **Primeiros Passos:** Criação das primeiras linhas de código.
+3. **Erros Comuns:** O que evitar durante o processo.
+
+</details>
+
+
 # Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
 
 ## Practical Implementation & Testing Stages
