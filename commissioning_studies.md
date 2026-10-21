@@ -204,7 +204,14 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - The safety analysis report;
   - Operational limits and conditions;
   - The administrative requirements established by the management of the operating organization (design project owner).
-- (3.9)
+- (3.9) The management system should support the development and enhancement of a safety culture in all commissioning activities, including among members of construction, commissioning and operating groups as well as other participants.
+  - This safety culture and safety awareness should be ensured through appropriate training, highlighting the role and the safety significance of the components concerned;
+  - Every person participating in the commissioning activities needs to understand the safety importance of his or her work, to promote personal responsability.
+  - The commissioning stage should foster a safety culture that should be maintained throughout the operating stage.
+- (3.10) The operating organization should implement adequate arrangements in a management system to ensure safety and quality for a commissioning programme that is effective and is in accordance with national and international standards.
+  - Provision should be made to ensure that the safety, health, environmental, security, quality and economic requirements for commissioning are met by all organizations participating in commissioning activities, including contractors.
+- (3.11) The operating organization should ensure that appropriate procedures are established for the control of commissioning activities on the site, to ensure that the commissioning of the plant fulfils the requirements of the commissioning programme.
+- (3.12) Arrangements should be made for adequate and, where necessary, independent oversight and control of the quality of ongoing work.
 
 # Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
 
