@@ -256,3 +256,10 @@ The **management system** is the integrated governance framework combining organ
 
 Documents define and record the system, but the **management system** itself is how the entire organization functions to deliver nuclear safety. It seems that the **management system** is the philosophy by which the **operating organization** execute the commissioning programme.
 </details>
+
+## Organizational Arrangements for Commissioning
+
+- (3.13) Organizational arrangements should be put in place to achieve the safety objectives of commissioning in accordance with the commissioning programme.
+  - These organizational arrangements should represent a convenient and practical working scheme that allows the optimum use of the available personnel, resources and methods, and that provides assurance on safety.
+- (3.14)
+
