@@ -1,23 +1,21 @@
-# References
+# References - IAEA SSG-28
 
 These notes are a brief summing up of two main documents: **IAEA SSG-28** and **US-NRC RG 1.68**. This summing up will be used as a base to the KINGS interview phase.
 First, a Nuclear Power Plant (NPP) commissioning is the process where the facility will start working after being built. The commissioning phase is the transition between construction and operation. A NPP commissioning includes several tests to confirm that a NPP is working accordingly with it was planned and to confirm that the NPP facility fulfill its requirements.
 
-# Phase 1: High-Level Concepts & Organizational Framework (IAEA SSG-28)
+# 1. Introduction
 
-## 1. Introduction
-
-### Objective
+## Objective
 
 - (1.3) This document makes recommendations about good practices of commissioning of Nuclear Power Plants (NPP). These recommendations will assure the commissioning process safely and high quality.
 - (1.4) Some or all of this document (IAEA SSG-28) may be relevant when a NPP is to be restarted after an extended shutdown period.
 
-### Scope
+## Scope
 
 - (1.5) SSG-28 deals with commissioning of all land based stationary thermal nuclear power plants. Here goes some topics this document makes recommendations: commissioning programme requirements and testing and review procedures.
 - (1.7) This Safely Guide does not cover considerations of nuclear security in commissioning for a nuclear power plant.
 
-### Structure
+## Structure
 
 - (1.8) Section 2 relates to the entire commissioning process for a nuclear power plant. In this section, the following subjects are covered:
   - objectives of commissioning;
@@ -36,13 +34,13 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - regulatory authorization and authorization for subsequent stages.
 - (1.11) Section 5 deals with the documentation to be prepared and produced during commissioning, and the requirements for the records over the lifetime of the plant.
 
-## 2. The Commissioning Process
+# 2. The Commissioning Process
 
 - (2.1) Commissioning is an essential process for the subsequent safe operation of a nuclear power plant and should be carefully developed, planned, executed and regulated. The commissioning process should be considered a progressive transition from construction to operation of the plant.
 - (2.2) Good coordination and communication should be established among all participants in the commissioning process (designers, construction group, license holders, regulators, manufactures, commissioning and operating groups). All the parties involved should be informed of all pertinent decisions.
   - For the accomplishment of this goal, it is mandatory to use an software/application to connect the stakeholders who must know every single changing in the project. This software/application will notify all stakeholders of a necessary update in their respective areas.
  
-### Objectives of Commissioning
+## Objectives of Commissioning
 
 - (2.3) Commissioning has the objective of demonstrating that the NPP as constructed meets the design requirements and the safety requirements as specified in the safety analysis report and in the licence conditions. For the achievement of this objective and to ensure safe and reliable operation of the plant in the future, the commissioninig process should include activities for the following purposes:
   - To verify that structures, system and components fulfil the design safety objectives through the corresponding acceptance criteria;
@@ -50,7 +48,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - To validate those operating procedures and surveillance procedures for which the commissioning tests provide representative activities and conditions, and to validate the adequacy of these operating and surveillance procedures;
   - To familiarize the operating, maintenance and technical staff of the NPP with the operation of the plant.
 
-### Commissioning Programme
+## Commissioning Programme
 
 - (2.4) The commissioning programme should cover the following items:
   - all the activities to be performed on structures, systems and components to make them operable in accordance with the design intent;
@@ -76,7 +74,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.15) The commissioning programme should be written in such a form as to enable the objectives and methods of testing to be readily understood by all concerned and to allow control and coordination by management.
 - (2.16) The commissioning programme should be prepared in the framework of the existing management system of the operating organization, with proper consideration given to all aspects of management.
 
-### Stages of Commissioning
+## Stages of Commissioning
 
 - (2.17) The commissioning programme for a NPP should be divided into stages whose number and size will depend upon safety requirements, and technical, administrative and regularory requirements when applicable.
   - A review of the results of the stage tests should be completed before continuing to the next stage.
@@ -97,7 +95,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.21) Each stage or substage of commissioning should include the task necessary for the preparation of the succeeding stage or substage, and in particular the availability requirements of the systems for the succeeding stage.
 - (2.22) The relevant safety system settings and alarm settings, including those of instruments for radiological protection, should be specified at the appropriate commissioning stages or substages.
 
-### Execution of the Commissioning Programme
+## Execution of the Commissioning Programme
 
 - (2.23) Testing, as the core of the commissioning programme, should be sufficiently comprehensive to demonstrate that the plant can be operated in all modes for which it has been designed to be operated.
   - However, tests should not be conducted, and operating modes or plant configurations should not be estabilished, if they meet any of the following conditions:
@@ -127,7 +125,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
     - These structures, systems and components should be tested for accident conditions in individual or multiple units;
     - A NPP unit under commissioning should be isolated from areas where construction activities are in progress. Such isolation should protect the unit from events, including possible violations, that might occur in constructions areas. Likewise, isolation should protect construction areas from possible accidents at a unit under commissioning.
 
-### Role of the Regulatory Body
+## Role of the Regulatory Body
 
 - (2.30) The role of the regulatory body in the commissioning process for a NPP is specified by the responsabilities and functions estabilished by its legal framework and national regulations:
   - In the commissioning process, the main function of the regulatory body is the oversight of commissioning activities, including, where appropriate, issuing relevant authorizations;
@@ -141,7 +139,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
   - The progress of the management of the operating organization from supervising construction to spervising operation;
   - The training and qualification of operating personnel.
 
-### Role of the Operating Organization
+## Role of the Operating Organization
 
 - (2.34) The operating organization holds the following responsibilities:
   - Nuclear and radiation safety;
@@ -155,9 +153,9 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 - (2.36) The operating organization should take appropriate actions during the commissioning stage to ensure that the operating personnel are involved in the commissioning activities as early as possible.
   - Attributes of safety culture such as personal dedication, safety consciousness and a questioning attitude should be fostered in the pre-operational stages so as to become instinctive for the subsequent operational stage.
  
-## 3. Organization and Management of Commissioning
+# 3. Organization and Management of Commissioning
 
-### Management System for Commissioning
+## Management System for Commissioning
 
 - (3.1) For the commissioning stage, the operating organization should develop and implement a management system that:
   - Meets the requirements established in:
@@ -216,7 +214,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 <details>
 <summary><b>🔍 Click here to see a summing up of what was studied so far</b></summary>
 
-### 📝 Summing Up
+## 📝 Summing Up
 The commissioning phase of a NPP is the **progressive transition from the construction to operation of the plant**. It is important to emphasize that all engineering project pass through a commissioning phase.
 
 Safety is the main point which must be guaranteed in the commissioning phase of a NPP: security of the equipment working and of the system operation. The commissioning phase of a NPP will perform some tests that will ensure the systems' response is within the acceptance criteria and will create procedures to be followed in the operation phase.
@@ -258,23 +256,3 @@ The **management system** is the integrated governance framework combining organ
 
 Documents define and record the system, but the **management system** itself is how the entire organization functions to deliver nuclear safety. It seems that the **management system** is the philosophy by which the **operating organization** execute the commissioning programme.
 </details>
-
-
-# Phase 2: Commissioning Implementation & Stages (IAEA SSG-28)
-
-## Practical Implementation & Testing Stages
-
-## Results, Documentation, and Special Focus
-
-# Phase 3: Regulatory Requirements & Initial Test Programs (US-NRC RG 1.68)
-
-## Regulatory Framework & Program Prerequisites
-
-## Detailed Testing Phases (Preoperational to Criticality)
-
-# Phase 4: Advanced Testing & Final Interview Preparation
-
-## Power Ascension, Advanced Reactors, & Procedures
-
-## Review & Interview Prep
-
