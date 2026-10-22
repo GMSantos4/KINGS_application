@@ -234,6 +234,9 @@ The **commissioning programme** is a detailed list of the activitie of the commi
 - Applicable requirements of the regulatory authority (regulatory body);
 - Inclusion of the operation and maintenance personal in commissioning activities.
 
+```text
+STOP IN THE ITEM 2.17
+```
 </details>
 
 
