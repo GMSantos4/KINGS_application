@@ -217,9 +217,22 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
 <summary><b>🔍 Click here to see a summing up of what was studied so far</b></summary>
 
 ### 📝 Summing Up
-1. **Configuração Inicial:** Passo a passo do ambiente.
-2. **Primeiros Passos:** Criação das primeiras linhas de código.
-3. **Erros Comuns:** O que evitar durante o processo.
+The commissioning phase of a NPP is the **progressive transition from the construction to operation of the plant**. It is important to emphasize that all engineering project pass through a commissioning phase.
+
+Safety is the main point which must be guaranteed in the commissioning phase of a NPP: security of the equipment working and of the system operation. The commissioning phase of a NPP will perform some tests that will ensure the systems' response is within the acceptance criteria and will create procedures to be followed in the operation phase.
+
+Before the commissioning phase, some documents must be generated and submited to the regulatory authority which will issue building licences. During the commissioning phase, all the acceptance criteria reported in that documents must be proven. This set of documents prior submited to the the regulatory authority is the **Safety Analysis Report**.
+
+The commissioning phase encompass all sections of the NPP, it means that this phase requires a clear communication between all this section. Noisy communication will be a major obstacle during the commissioning phase.
+
+The **commissioning programme** is a detailed list of the activitie of the commissioning phase. This documents must contain:
+- Tests to be executed in the commissioning phase;
+- Test execution order and test groups;
+- The NPP condition as reported in the **Safety Analysis Report**;
+- The commissioning process milestones;
+- Validation of operation procedures;
+- Applicable requirements of the regulatory authority (regulatory body);
+- Inclusion of the operation and maintenance personal in commissioning activities.
 
 </details>
 
