@@ -135,7 +135,7 @@ First, a Nuclear Power Plant (NPP) commissioning is the process where the facili
     - The plant is constructed in accordance with the design intent and its licensing base;
     - The system and equipment are installed as designed;
     - The NPP and its equipment are working according to safety requirements.
-- (2.31) The scope and content of the assessments, reviews and inspections conducted by the regulatory body in connection with the commissioning programme differ form State to State. In general, the regulatory body may require some proofs in each stage of the commissioning programme before authorize the commissioning programme to follow to the next steps.
+- (2.31) The scope and content of the assessments, reviews and inspections conducted by the regulatory body in connection with the commissioning programme differ from State to State. In general, the regulatory body may require some proofs in each stage of the commissioning programme before authorize the commissioning programme to follow to the next steps.
   - For more information, see: INTERNATIONAL ATOMIC ENERGY AGENCY, Licensing Process for Nuclear Installations, IAEA Safety Standards Series No. SSG-12, IAEA, Vienna (2010).
 - (2.32) In addition to the examination of documentation and the surveillance of testing, there are a number of other areas in which there should be oversight by the regulatory body at the commissioning stage:
   - The progress of the management of the operating organization from supervising construction to spervising operation;
@@ -225,7 +225,7 @@ Before the commissioning phase, some documents must be generated and submited to
 
 The commissioning phase encompass all sections of the NPP, it means that this phase requires a clear communication between all this section. Noisy communication will be a major obstacle during the commissioning phase.
 
-The **commissioning programme** is a detailed list of the activitie of the commissioning phase. This documents must contain:
+The **commissioning programme** is a detailed list of the activities of the commissioning phase. This documents must contain:
 - Tests to be executed in the commissioning phase;
 - Test execution order and test groups;
 - The NPP condition as reported in the **Safety Analysis Report**;
@@ -234,9 +234,29 @@ The **commissioning programme** is a detailed list of the activitie of the commi
 - Applicable requirements of the regulatory authority (regulatory body);
 - Inclusion of the operation and maintenance personal in commissioning activities.
 
-```text
-STOP IN THE ITEM 2.17
-```
+The **commissioning programme** should be divided into stages and, if necessary, substages.The sequence of the tests in each substages should be given in the order in which the tests are expected to be performed. 
+
+Testing is the core of the **commissioning programme**. They must be comprehensive to demonstrate that the plant can operate in all modes for which has been designed to work.
+
+The role of the **regulatory body (authority)** in the commissioning process is the oversight of commissioning activities and issuing authorizations.
+
+The **regulatory body** must assure that the NPP is constructed in accordance with its design and its license base. 
+
+The **regulatory body** must assure that the NPP is working according to safety requirements.
+
+The **operating organization** must guarantee the nuclear and radiation safety, the protection of workers and of the environment and the correct organization, planning, execution and assessment of the commissioning process.
+
+The **operating organization** is the section of the NPP in charge of the running of the commissioning process. They must discharge (execute) the following items:
+- Formal structure;
+- Management systems;
+- Approval of activities made by contractors;
+- So on.
+
+The operating organization must develop and implement a **management system**. 
+
+The **management system** is the integrated governance framework combining organizational structure, people and safety culture, operational processes, and formal documentation to ensure all commissioning activities meet safety and design requirements.
+
+Documents define and record the system, but the **management system** itself is how the entire organization functions to deliver nuclear safety. It seems that the **management system** is the philosophy by which the **operating organization** execute the commissioning programme.
 </details>
 
 
