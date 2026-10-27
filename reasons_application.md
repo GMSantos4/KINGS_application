@@ -147,9 +147,9 @@ This is the most important section for the technical part of the interview. A pr
 - **Isotopes:** same Z, different N. Example: U-235 and U-238.
 - The mass of a nucleus is smaller than the sum of the masses of its nucleons. This **mass defect** is converted into **binding energy**:
 
-$$E = \Delta m \, c^2$$
+$$E = \Delta m \ c^2$$
 
-- The **binding energy per nucleon** curve has a maximum near Fe-56. For this reason:
+- The **binding energy per nucleon (BEN)** is the division between the total binding energy by the mass number (A=Z+N). The BEN curve has a maximum near Fe-56. For this reason:
   - heavy nuclei release energy by **fission**;
   - light nuclei release energy by **fusion**.
 
