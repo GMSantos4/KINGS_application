@@ -150,8 +150,8 @@ This is the most important section for the technical part of the interview. A pr
 $$E = \Delta m \ c^2$$
 
 - The **binding energy per nucleon (BEN)** is the division between the total binding energy by the mass number (A=Z+N). The BEN curve has a maximum near Fe-56. For this reason:
-  - heavy nuclei (A > 120) release energy by **fission**;
-  - light nuclei (A < 56) release energy by **fusion**.
+  - heavy nuclei release energy by **fission**;
+  - light nuclei release energy by **fusion**.
 
 ### Radioactive decay
 
