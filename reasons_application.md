@@ -153,6 +153,20 @@ $$E = \Delta m \ c^2$$
   - heavy nuclei release energy by **fission**;
   - light nuclei release energy by **fusion**.
 
+- Binding energy is the energy you would have to supply to pull the nucleus apart, so a higher binding energy per nucleon means a lower-energy, more stable state. When U-235 splits into fragments with higher binding energy per nucleon, the system drops to a lower energy state, and the difference — about 200 MeV — is released, mostly as kinetic energy of the fragments.
+- Free nucleons are the zero-energy reference. Bound nucleons sit below that reference, so the nucleus has negative energy, E = −B. A larger binding energy means a deeper, lower-energy state, which shows up directly as a smaller nuclear mass.
+
+<img width="1896" height="947" alt="image" src="https://github.com/user-attachments/assets/da9d0e0a-a771-48b1-9d32-757fe32c4b72" />
+
+- To have a better understanding of the last concept, take a look in this [Khan Academy video, Binding energy graph](https://www.youtube.com/watch?v=kVqCLiRmom4). Here you are going to understand that the greater the BEA, the more stable is a nucleus.
+- It means that heavy nuclei suffer fission to become more stable, while lighter nuclei must suffer fussion to become more stable.
+- When U-235 absorbs a neutron, it forms an excited compound nucleus, U-236*. In about 85% of cases it fissions — typically asymmetrically, into one fragment near mass 95 and another near mass 140, plus two to three neutrons and about 200 MeV, mostly as kinetic energy of the fragments. In the remaining cases, it simply emits a gamma ray and becomes U-236, which is a parasitic capture for the chain reaction.
+
+$$ U-235 + n → U-236* → Ba-141 + Kr-92 + 3n + ~200 MeV $$
+
+- It is important to notice that in the U-235, you need 1786 MeV to pull the nucleus apart into individuals nucleons.
+- Fission does not require pulling the nucleus apart into individual nucleons; it only requires overcoming a fission barrier of about 6 MeV. When U-235 absorbs a thermal neutron, the binding energy of that neutron — about 6.5 MeV — exceeds the barrier, so the compound nucleus U-236 fissions without any external energy input. Each fission then releases about 200 MeV and two to three neutrons, which sustain the chain reaction. In U-238, the neutron binding energy is lower than the barrier, so it is fissionable only by fast neutrons, not fissile.
+
 ### Radioactive decay
 
 - Decay law:
