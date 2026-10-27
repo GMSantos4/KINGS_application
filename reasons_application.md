@@ -125,6 +125,7 @@ Each section ends with possible interview questions and short answers written wi
 
 **Q: How do safeguards apply to Brazil?**
 - Brazil has a unique system. Brazil and Argentina created ABACC in 1991, a bilateral agency that verifies the nuclear materials of both countries. The Quadripartite Agreement (Brazil, Argentina, ABACC and IAEA) links this system to the IAEA. Brazil is also part of the NPT and the Treaty of Tlatelolco.
+  - The Treaty of Tlatelolco is an agreement between the 33 Latin American countries. In this agreement, those countries agreed not to produce any kind of nuclear weapons, conduct any test, or make acquisitions. This treaty was signed on February 14, 1967, and it was a response to the Cold War period.
 
 **Q: What is safety culture?**
 - According to INSAG-4, safety culture is the assembly of characteristics and attitudes in organizations and individuals which establishes that, as an overriding priority, nuclear safety issues receive the attention warranted by their significance. In practice, it means a questioning attitude, a rigorous and prudent approach, and open communication. Everyone must feel free to stop a test if something looks unsafe.
