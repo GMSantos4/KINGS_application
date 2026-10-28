@@ -169,6 +169,10 @@ $$ U-235 + n → U-236* → Ba-141 + Kr-92 + 3n + ~200 MeV $$
 
 ### Radioactive decay
 
+- Radioactive decay is the process by which unstable nuclei release energy to become more stable. You cannot predict when a single atom will decay, but you can predict when a group of atoms will. You do this by an exponential equation, the **Decay Law**.
+- An important concept is the half-life. The half-life is how mach time takes to the halt of a group of atoms to decay.
+- Activity, measured in becquerels, is the number of decays per second. It is different from dose, which measures the effect on people.
+- For plant engineering, the most important consequence is decay heat. Even after shutdown, fission products keep generating heat, so cooling systems must remain available, as Fukushima showed. In commissioning, these concepts appear in fuel loading with neutron sources, in radiation surveys during power ascension, and in testing residual heat removal systems
 - Decay law:
 
 $$N(t) = N_0 \, e^{-\lambda t} \qquad T_{1/2} = \frac{\ln 2}{\lambda}$$
