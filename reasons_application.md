@@ -180,6 +180,7 @@ $$N(t) = N_0 \, e^{-\lambda t} \qquad T_{1/2} = \frac{\ln 2}{\lambda}$$
 - Activity: $A = \lambda N$ (unit: becquerel, Bq = 1 decay/s).
 
 - Some main emission types in the radioactive decay are: alpha (helium nucleus), beta (electron or positron), gamma (photon), neutron emission. It is important to notice that neutron emissions are not so common, except as fission products.
+- An important safety concept in Nuclear Power Plants is about time, distance and shielding: minimize the time near the source, maximize the distance, and put the right shielding between you and the source.
 
 ### Fission
 
