@@ -178,7 +178,8 @@ $$ U-235 + n → U-236* → Ba-141 + Kr-92 + 3n + ~200 MeV $$
 $$N(t) = N_0 \, e^{-\lambda t} \qquad T_{1/2} = \frac{\ln 2}{\lambda}$$
 
 - Activity: $A = \lambda N$ (unit: becquerel, Bq = 1 decay/s).
-- Main types: alpha (helium nucleus), beta (electron or positron), gamma (photon), neutron emission.
+
+- Some main emission types in the radioactive decay are: alpha (helium nucleus), beta (electron or positron), gamma (photon), neutron emission. It is important to notice that neutron emissions are not so common, except as fission products.
 
 ### Fission
 
