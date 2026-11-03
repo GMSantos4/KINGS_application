@@ -192,6 +192,11 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
 - **Fissile** isotopes fission with thermal (slow) neutrons: U-235, Pu-239, U-233.
 - **Fertile** isotopes can become fissile after neutron capture: U-238 → Pu-239; Th-232 → U-233.
 - Natural uranium has only **0.711% U-235**. LWRs use **LEU** enriched to about **3-5%** U-235.
+  - A LWR is a Lighter Water Reactor. There are two main types:
+    - PWR: In a Pressurized Water Reactor, the water do not boil and is keeping under high pressure.
+      <img width="987" height="425" alt="image" src="https://github.com/user-attachments/assets/0d66f77c-2947-4de1-87cb-c8a21f6c1665" />
+    - BWR: In a Boiling Water Reactor, the water boils and move the turbines.
+      <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/40a8e44d-b63d-4e6f-b691-91a78a03af05" />
 - Rough rule: fission of 1 g of U-235 ≈ 1 MW·day of thermal energy.
 
 ### Neutron interactions and cross sections
