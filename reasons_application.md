@@ -235,7 +235,7 @@ $$k = \frac{\text{neutrons in one generation}}{\text{neutrons in the previous ge
 
 ### Six factor formula (finite reactor)
 
-$$k_{eff} = \eta \, f \, p \, \varepsilon \, P_{FNL} \, P_{TNL}$$
+$$k_{eff} = \eta  f  p  \varepsilon  P_{FNL}  P_{TNL}$$
 
 - η: reproduction factor (neutrons produced per neutron absorbed in fuel);
 - f: thermal utilization factor;
