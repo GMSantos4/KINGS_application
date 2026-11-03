@@ -212,7 +212,7 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
 - **Macroscopic cross section**: $\Sigma = N \sigma$ (cm⁻¹).
 - **Reaction rate** and **thermal power**:
 
-$$R = \Sigma \, \phi \qquad P = E_f \, \Sigma_f \, \phi \, V$$
+$$R = \Sigma \phi \qquad P = E_f \Sigma_f \phi V$$
 
 where φ is the neutron flux (n/cm²·s) and E_f ≈ 200 MeV per fission.
 
