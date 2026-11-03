@@ -212,7 +212,7 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
 - **Macroscopic cross section**: $\Sigma = N \sigma$ (cm⁻¹). N is the nucleus density (nucleus/cm³). $\Sigma$ is the probability of interaction per run centimeter.
 - **Reaction rate** and **thermal power**:
 
-$$R = \Sigma \phi \qquad P = E_f \Sigma_f \phi V$$
+$$R = \Sigma · \phi \qquad P = E_f · \Sigma_f · \phi · V$$
 
 where φ is the neutron flux (n/cm²·s) and E_f ≈ 200 MeV per fission.
 
@@ -235,7 +235,7 @@ $$k = \frac{\text{neutrons in one generation}}{\text{neutrons in the previous ge
 
 ### Six factor formula (finite reactor)
 
-$$k_{eff} = \eta  f  p  \varepsilon  P_{FNL}  P_{TNL}$$
+$$k_{eff} = \eta · f · p · \varepsilon · P_{FNL} · P_{TNL}$$
 
 - η: reproduction factor (neutrons produced per neutron absorbed in fuel);
 - f: thermal utilization factor;
