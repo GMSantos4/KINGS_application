@@ -207,9 +207,9 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
 
 ### Neutron interactions and cross sections
 
-- A neutron can be **scattered** (elastic or inelastic), **absorbed** (capture or fission).
-- **Microscopic cross section** σ (barns, 1 b = 10⁻²⁴ cm²): probability of interaction with one nucleus.
-- **Macroscopic cross section**: $\Sigma = N \sigma$ (cm⁻¹).
+- A neutron can be **scattered** (elastic or inelastic) or **absorbed** (capture or fission).
+- **Microscopic cross section** σ (barns, 1 b = 10⁻²⁴ cm²): probability of interaction with one nucleus expressed in area.
+- **Macroscopic cross section**: $\Sigma = N \sigma$ (cm⁻¹). N is the nucleus density (nucleus/cm³). $\Sigma$ is the probability of interaction per run centimeter.
 - **Reaction rate** and **thermal power**:
 
 $$R = \Sigma \phi \qquad P = E_f \Sigma_f \phi V$$
@@ -217,6 +217,7 @@ $$R = \Sigma \phi \qquad P = E_f \Sigma_f \phi V$$
 where φ is the neutron flux (n/cm²·s) and E_f ≈ 200 MeV per fission.
 
 - U-235 fission cross section is much higher for **thermal neutrons** (~585 b) than for fast neutrons (~1 b). This is why thermal reactors need a **moderator**.
+- The microscopic cross section is the effective target area a nucleus presents for a given reaction, measured in barns. Multiplying by the number density gives the macroscopic cross section, the interaction probability per centimeter. The reaction rate is the macroscopic cross section times the neutron flux, so thermal power is proportional to flux, which is why neutron detectors are used to measure reactor power. Because the U-235 fission cross section is about 585 barns for thermal neutrons versus roughly 1 barn for fission-energy neutrons, low-enriched reactors need a moderator to slow neutrons down, while avoiding capture in the U-238 resonances along the way.
 
 ## 2.2 Reactor physics - chain reaction and control
 
