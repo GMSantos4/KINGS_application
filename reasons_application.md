@@ -266,6 +266,8 @@ with λ ≈ 0.08 s⁻¹ (one delayed group approximation).
 
 $$\frac{dn}{dt} = \frac{\rho - \beta}{\Lambda} n + \lambda C \qquad \frac{dC}{dt} = \frac{\beta}{\Lambda} n - \lambda C$$
 
+- Rho is the reactivity, defined as (k − 1)/k. It measures how far the core is from criticality: zero when critical, positive when power is rising, negative when it is falling. It is usually expressed in pcm or in dollars, where one dollar equals the delayed neutron fraction β. As long as reactivity stays below β, the power increase depends on delayed neutrons and the reactor period is long enough to control — about 70 seconds for 100 pcm. Above β, the reactor is prompt critical and power rises in milliseconds
+
 ### Reactivity coefficients (feedback)
 
 | Coefficient | Physical effect | PWR value |
