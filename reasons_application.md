@@ -190,7 +190,11 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
 
 - Most of the energy (~165 MeV) is kinetic energy of the fission products, converted into heat inside the fuel.
 - **Fissile** isotopes fission with thermal (slow) neutrons: U-235, Pu-239, U-233.
+  - These isotopes fission with a slow neutron, because the slow neutron energy is enough to overcome the fission barrier (6 MeV).
 - **Fertile** isotopes can become fissile after neutron capture: U-238 → Pu-239; Th-232 → U-233.
+  - These fertile isotopes can become fissil after capture a neutron and pass through decays. See the formula below:
+    $${}^{238}\mathrm{U} + n \rightarrow {}^{239}\mathrm{U} \xrightarrow{\beta^-,\ 23\ \mathrm{min}} {}^{239}\mathrm{Np} \xrightarrow{\beta^-,\ 2.4\ \mathrm{d}} {}^{239}\mathrm{Pu}$$
+    $${}^{232}\mathrm{Th} + n \rightarrow {}^{233}\mathrm{Th} \xrightarrow{\beta^-,\ 22\ \mathrm{min}} {}^{233}\mathrm{Pa} \xrightarrow{\beta^-,\ 27\ \mathrm{d}} {}^{233}\mathrm{U}$$
 - Natural uranium has only **0.711% U-235**. LWRs use **LEU** enriched to about **3-5%** U-235.
   - A LWR is a Lighter Water Reactor. There are two main types:
     - PWR: In a Pressurized Water Reactor, the water do not boil and is keeping under high pressure.
@@ -198,6 +202,7 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
     - BWR: In a Boiling Water Reactor, the water boils and move the turbines.
       <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/40a8e44d-b63d-4e6f-b691-91a78a03af05" />
 - Rough rule: fission of 1 g of U-235 ≈ 1 MW·day of thermal energy.
+- 
 
 ### Neutron interactions and cross sections
 
