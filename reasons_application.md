@@ -203,7 +203,7 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
     - BWR: In a Boiling Water Reactor, the water boils and move the turbines.
       <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/40a8e44d-b63d-4e6f-b691-91a78a03af05" />
 - Rough rule: fission of 1 g of U-235 ≈ 1 MW·day of thermal energy.
-- 
+- Fissile isotopes — U-235, Pu-239 and U-233 — can sustain a chain reaction with thermal neutrons. Fertile isotopes — U-238 and Th-232 — cannot, but they become fissile after neutron capture and two beta decays. This matters for three reasons. First, resources: natural uranium is only 0.7% U-235, so converting U-238 into plutonium greatly extends fuel use; even in a PWR, about a third of the energy at end of cycle comes from plutonium. Second, reactor behavior: plutonium has a much smaller delayed neutron fraction than U-235, so core kinetics change with burnup, which is why startup physics tests are important to validate core models. Third, non-proliferation: because every uranium reactor produces plutonium, spent fuel is subject to IAEA safeguards.
 
 ### Neutron interactions and cross sections
 
