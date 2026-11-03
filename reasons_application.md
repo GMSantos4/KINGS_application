@@ -193,14 +193,8 @@ $$^{235}\text{U} + n \rightarrow \text{fission products} + (2 \text{ to } 3)\,n 
   - These isotopes fission with a slow neutron, because the slow neutron energy is enough to overcome the fission barrier (6 MeV).
 - **Fertile** isotopes can become fissile after neutron capture: U-238 → Pu-239; Th-232 → U-233.
   - They become fissile by capturing a neutron and then undergoing two beta decays:
-
-```math
-    {}^{238}\mathrm{U} + n \rightarrow {}^{239}\mathrm{U} \xrightarrow{\beta^-,\ 23\ \mathrm{min}} {}^{239}\mathrm{Np} \xrightarrow{\beta^-,\ 2.4\ \mathrm{d}} {}^{239}\mathrm{Pu}
-```
-
-```math
-    {}^{232}\mathrm{Th} + n \rightarrow {}^{233}\mathrm{Th} \xrightarrow{\beta^-,\ 22\ \mathrm{min}} {}^{233}\mathrm{Pa} \xrightarrow{\beta^-,\ 27\ \mathrm{d}} {}^{233}\mathrm{U}
-```
+    - U-238  + n → U-239  →(β⁻, 23 min)→ Np-239 →(β⁻, 2,4 dias)→ Pu-239
+    - Th-232 + n → Th-233 →(β⁻, 22 min)→ Pa-233 →(β⁻, 27 dias)→ U-233
 
 - Natural uranium has only **0.711% U-235**. LWRs use **LEU** enriched to about **3-5%** U-235.
   - A LWR is a Lighter Water Reactor. There are two main types:
